@@ -1,10 +1,12 @@
 {
   "name": "9cc93fca3ff0a744c6fff558c04d7538",
   "theme": "syntax",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "กติกาการเล่น เกมไพ่บาคาร่า มีวิธีการเล่น เช่นไร  ?",
   "keywords": [
-    "joker สล็อต","สล็อต99","สล็อต777"
+    "joker สล็อต",
+    "สล็อต99",
+    "สล็อต777"
   ],
   "repository": "https://github.com/onlineufa007/swan",
   "license": "MIT",
