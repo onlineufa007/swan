@@ -1,0 +1,14 @@
+{
+  "name": "df7b8e1ef47b03d6a1393e565636f0b7",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "อยากเล่น บาคาร่า ยากไหม? มือใหม่ควรรู้",
+  "keywords": [
+    "สล็อต ยืนยัน otp รับเครดิตฟรี100","สล็อต66","สล็อต ฝาก-ถอน true wallet ไม่มี บัญชีธนาคาร"
+  ],
+  "repository": "https://github.com/onlineufa007/swan",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
